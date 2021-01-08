@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ComputerManager" Class="qlComputerDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-A5A5OJE\SQLEXPRESS;Initial Catalog=ComputerManager;Integrated Security=True;Encrypt=False;TrustServerCertificate=True" SettingsObjectName="LinQThucHanhComputer.Properties.Settings" SettingsPropertyName="ComputerManagerConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblMaytinh" Member="tblMaytinhs">
+    <Type Name="tblMaytinh">
+      <Column Name="msMay" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CPU" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="HardDisk" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="RAM" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="VGA" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Monitor" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="msPhong" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Association Name="tblPhonghoc_tblMaytinh" Member="tblPhonghoc" ThisKey="msPhong" OtherKey="msPhong" Type="tblPhonghoc" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblPhonghoc" Member="tblPhonghocs">
+    <Type Name="tblPhonghoc">
+      <Column Name="msPhong" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tenPhong" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="toaNha" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="tangLau" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblPhonghoc_tblMaytinh" Member="tblMaytinhs" ThisKey="msPhong" OtherKey="msPhong" Type="tblMaytinh" />
+    </Type>
+  </Table>
+</Database>

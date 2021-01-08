@@ -1,0 +1,61 @@
+D:\giangday\cShap\DH\2019\BaiTap\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\LinQThucHanhComputer.exe.config
+D:\giangday\cShap\DH\2019\BaiTap\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\LinQThucHanhComputer.exe
+D:\giangday\cShap\DH\2019\BaiTap\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\LinQThucHanhComputer.pdb
+D:\giangday\cShap\DH\2019\BaiTap\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmDuLieuHonLoan.resources
+D:\giangday\cShap\DH\2019\BaiTap\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmLogin.resources
+D:\giangday\cShap\DH\2019\BaiTap\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmMainQLMayTinh.resources
+D:\giangday\cShap\DH\2019\BaiTap\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmPhongMay.resources
+D:\giangday\cShap\DH\2019\BaiTap\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmQLComputer.resources
+D:\giangday\cShap\DH\2019\BaiTap\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmTimKiemAutocomlet.resources
+D:\giangday\cShap\DH\2019\BaiTap\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.Properties.Resources.resources
+D:\giangday\cShap\DH\2019\BaiTap\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.csproj.GenerateResource.Cache
+D:\giangday\cShap\DH\2019\BaiTap\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.exe
+D:\giangday\cShap\DH\2019\BaiTap\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.pdb
+F:\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\LinQThucHanhComputer.exe.config
+F:\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.exe
+F:\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.pdb
+F:\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\LinQThucHanhComputer.exe
+F:\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\LinQThucHanhComputer.pdb
+F:\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.csprojResolveAssemblyReference.cache
+F:\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmDuLieuHonLoan.resources
+F:\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmLogin.resources
+F:\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmMainQLMayTinh.resources
+F:\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmPhongMay.resources
+F:\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmQLComputer.resources
+F:\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmTimKiemAutocomlet.resources
+F:\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.Properties.Resources.resources
+F:\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.csproj.GenerateResource.Cache
+F:\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\ComputerManager_dat.mdf
+F:\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\ComputerManager_dat_log.ldf
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\LinQThucHanhComputer.exe.config
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.exe
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.pdb
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\ComputerManager_dat.mdf
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\ComputerManager_dat_log.ldf
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\LinQThucHanhComputer.exe
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\LinQThucHanhComputer.pdb
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.csprojResolveAssemblyReference.cache
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmDuLieuHonLoan.resources
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmLogin.resources
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmMainQLMayTinh.resources
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmPhongMay.resources
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmQLComputer.resources
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmTimKiemAutocomlet.resources
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.Properties.Resources.resources
+C:\Users\Dien Khung\Documents\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.csproj.GenerateResource.Cache
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\LinQThucHanhComputer.exe.config
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.exe
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.pdb
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\ComputerManager_dat.mdf
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\ComputerManager_dat_log.ldf
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\LinQThucHanhComputer.exe
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\bin\Debug\LinQThucHanhComputer.pdb
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.csprojResolveAssemblyReference.cache
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmDuLieuHonLoan.resources
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmLogin.resources
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmMainQLMayTinh.resources
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmPhongMay.resources
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmQLComputer.resources
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.frmTimKiemAutocomlet.resources
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.Properties.Resources.resources
+C:\Users\Le Duyen\Desktop\C#\LinQThucHanhComputer\LinQThucHanhComputer\LinQThucHanhComputer\obj\Debug\LinQThucHanhComputer.csproj.GenerateResource.Cache
